@@ -1,8 +1,12 @@
 # YouTube Analysis
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/512px-YouTube_full-color_icon_%282017%29.svg.png" alt="" align="center" width="225" height="150"><h1 align="center">YouTubeanalysis</h1>
+<p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
-## Overview
+<img src="https://repolaunch.vercel.app/assets/img/yt.webp" alt="" align="center" width="auto" height="auto">
 
-This project analyzes YouTube data to compare the performance of long-form videos versus YouTube Shorts. It includes data collection, cleaning, analysis, and visualization components, culminating in an interactive Streamlit application.
+## Project Description
+
+This project explores and compares the performance of **YouTube long-form videos** and **YouTube Shorts** using data analysis and visualization. The project aims to uncover insights about engagement, views, and overall content performance using a clean dataset and interactive visual tools.
 
 ## Table of Contents
 
@@ -25,6 +29,23 @@ This project analyzes YouTube data to compare the performance of long-form video
   - `app_streamlit.py`: Streamlit application script for interactive data exploration.
 - `requirements.txt`: Lists Python dependencies required for the project.
 - `README.md`: This file.
+
+## Key Components
+
+**Python**: Core programming language
+
+*   **Pandas, NumPy**: Data handling
+*   **Matplotlib, Seaborn**: Visualizations
+*   **Streamlit**: Web-based interactive dashboard
+*   **Jupyter Notebook**: (optional for EDA)
+
+## Key Features
+
+Data Cleaning and Merging
+
+*   Visual Comparison of Shorts vs Long Videos
+*   Engagement Metrics: Views, Likes, Comments
+*   Streamlit App for User-Friendly Insights
 
 ## Features
 
